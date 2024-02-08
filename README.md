@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Michael.
 
 - Based in Newcastle upon Tyne, UK
-- Currently a vehicle technician at BMW
+- Currently a vehicle technician at Seat
 - Looking to change careers into CyberSecurity
 - Training in Penetration testing with TCM Security
-- Also learning Python 
+- Also learning Python and Web Development
 
 <!--
 **MBrinsford/MBrinsford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
